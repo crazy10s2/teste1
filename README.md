@@ -29,4 +29,4 @@ Sou um desenvolver front-end Python intermediário, atuando como web developer, 
 
 ### 5. GitHub stats:
 
-![statis](https://github-readme-stats.vercel.app/api?username=Cauã Dias&theme=blue-green)
+![statis](https://github-readme-stats.vercel.app/api?username=crazy10s2&theme=blue-green)
