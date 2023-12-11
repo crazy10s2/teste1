@@ -29,4 +29,5 @@ Sou um desenvolver front-end Python intermediário, atuando como web developer, 
 
 ### 5. GitHub stats:
 
-![statis](https://github-readme-stats.vercel.app/api?username=crazy10s2&theme=blue-green)
+![stats](https://github-readme-stats.vercel.app/api?username=crazy10s2&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazy10s2&hide_progress=true)
