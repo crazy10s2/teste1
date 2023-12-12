@@ -27,7 +27,7 @@ Sou um desenvolver front-end Python intermediário, atuando como web developer, 
 
 ![GitHub logo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-### 5. GitHub stats:
+### 5. 📊GitHub stats:
 
-![stats](https://github-readme-stats.vercel.app/api?username=crazy10s2&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazy10s2&hide_progress=true)
+![stats](https://github-readme-stats.vercel.app/api?username=crazy10s2&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazy10s2&hide_progress=true&theme=gruvbox&rank_icon=github)
